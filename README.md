@@ -68,7 +68,7 @@ Os alunos devem simular a alocação dos processos na RAM usando o algoritmo **b
 
 ### 1. Alocação Inicial com Best-Fit
 
-![Alocação Inicial em formato tabela](imagens/alocacao_inical.png)
+![Alocação Inicial em formato tabela para melhor visualização](imagens/alocacao_inical.png)
 
 | Etapa | Processo | Bloco livre escolhido | Intervalo (KB) | Blocos livres resultantes |
 |:-----:|:--------:|:---------------------:|:--------------:|:-------------------------:|
@@ -91,7 +91,7 @@ Os alunos devem simular a alocação dos processos na RAM usando o algoritmo **b
 
 Assumindo **tamanho de página = 4 KB** (64 KB de RAM → 16 frames: 0–15):
 
-![Paginação em formato tabela](imagens/paginacao.png)
+![Paginação em formato tabela para melhor visualização](imagens/paginacao.png)
 
 | Processo | Tamanho | # Páginas | Páginas em RAM (frames) | Páginas em Disco |
 |:--------:|:-------:|:---------:|:-----------------------:|:----------------:|
